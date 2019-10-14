@@ -1,0 +1,9 @@
+tour	                 cooler master mastercase H500P
+alimentation	         seasonic FOCUS plus 750 gold
+CM	                 Gygabyte AORUS X470 ultra gaming 
+proc	                 AMD Ryzen 7 2700X
+Refroidissement proc	 Cooler master masterliquid ML240L RGB
+RAM	                 Gigabyte AORUS RGB DDR4 2X8 Go 3200 Mhz CAS 16
+carte graph	         geforce gtx 1060 gaming 6G
+disque SSD	         Samsung serie 860 EVO 500 Go
+disque données	         Seagate barracuda 2To 256 Mo
